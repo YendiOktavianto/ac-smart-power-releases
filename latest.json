@@ -1,0 +1,17 @@
+{
+  "version": "1.7.1",
+  "date": "2026-11-17",
+  "notes": "Test release",
+  "builds": {
+    "esp32c3": {
+      "url": "https://raw.githubusercontent.com/YendiOktavianto/ac-smart-power-releases/main/firmware/1.7.1/ac-remote-1.7.1-esp32c3.bin",
+      "size": 613840,
+      "md5": "9b4f6ea51527518cfaabb04280bf0f89"
+    },
+    "esp32": {
+      "url": "https://raw.githubusercontent.com/YendiOktavianto/ac-smart-power-releases/main/firmware/1.7.1/ac-remote-1.7.1-esp32.bin",
+      "size": 614800,
+      "md5": "c4fd7d9371c5d10e0e6517d134cfbf51"
+    }
+  }
+}
