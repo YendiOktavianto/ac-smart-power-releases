@@ -1,17 +1,17 @@
 {
-  "version": "1.9.1",
+  "version": "1.9.2",
   "date": "2026-11-19",
-  "notes": "Test release",
+  "notes": "Test release (MTU 247)",
   "builds": {
     "esp32c3": {
-      "url": "https://raw.githubusercontent.com/YendiOktavianto/ac-smart-power-releases/main/firmware/1.9.1/ac-remote-1.9.1-esp32c3.bin",
+      "url": "https://raw.githubusercontent.com/YendiOktavianto/ac-smart-power-releases/main/firmware/1.9.2/ac-remote-1.9.2-esp32c3.bin",
       "size": 620096,
-      "md5": "93b2ed86e60e520e33c244097019c554"
+      "md5": "3b9676437ef2efbd9bd2bdb28ec46ebe"
     },
     "esp32": {
-      "url": "https://raw.githubusercontent.com/YendiOktavianto/ac-smart-power-releases/main/firmware/1.9.1/ac-remote-1.9.1-esp32.bin",
+      "url": "https://raw.githubusercontent.com/YendiOktavianto/ac-smart-power-releases/main/firmware/1.9.2/ac-remote-1.9.2-esp32.bin",
       "size": 619712,
-      "md5": "9d8eb92a7de63422b79406adf447f87a"
+      "md5": "43725286947e53ce8144e2093911bbdf"
     }
   }
 }
